@@ -1,3 +1,3 @@
 <?php
 
-echo "This is Primary App!";
+echo "This is Secondary App!";
